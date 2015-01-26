@@ -1,0 +1,12 @@
+PODS:
+  - RZCellSizeManager (1.1.1):
+    - RZCellSizeManager/Core (= 1.1.1)
+  - RZCellSizeManager/Core (1.1.1)
+
+DEPENDENCIES:
+  - RZCellSizeManager (~> 1.1)
+
+SPEC CHECKSUMS:
+  RZCellSizeManager: a53e0c0788b6e1b595a6244af22d5c0d7d3dde4a
+
+COCOAPODS: 0.35.0
